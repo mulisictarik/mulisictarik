@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hej, jag heter Tarik 👋
 
-<!--
-**mulisictarik/mulisictarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jag studerar till **MLOps Engineer** på Nackademin i Stockholm och söker **LIA-plats 8 februari – 21 maj 2027**.
 
-Here are some ideas to get you started:
+Det jag tycker är roligast är att ta en modell hela vägen: träna den, paketera den och få den att köra stabilt i produktion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Verktyg jag jobbar med
+
+**Språk:** Python, SQL, Bash
+**ML:** PyTorch, scikit-learn, Pandas, NumPy
+**MLOps:** Docker, Git, GitHub Actions, DVC, MLflow, FastAPI
+**Data:** DuckDB, PostgreSQL, TimescaleDB, dlt
+**Övrigt:** Linux, Streamlit, Grafana, MQTT
+
+### Projekt
+
+| Projekt | Vad det är |
+|---|---|
+| [Taxi Price Predictor](https://github.com/mulisictarik/taxi-prediction-fullstack) | ML-modell som förutspår taxipriser, med FastAPI-backend och Streamlit-frontend |
+| [PyTorch Pipeline](https://github.com/mulisictarik/deeplearning-pytorch-pipeline) | Bildklassificering på CIFAR-10 med experiment, sparade mätvärden och data versionerad med DVC |
+| [Sakila Data Pipeline](https://github.com/mulisictarik/sakila-data-pipeline) | Dataflöde från SQLite till DuckDB med dlt, SQL-analys och dashboard i Evidence |
+| [IoT-pipeline](https://github.com/hencyber/pico-serverrum) | Grupprojekt: sensordata från Raspberry Pi Pico via MQTT till TimescaleDB och Grafana |
+
+### Kontakt
+
+[LinkedIn](https://www.linkedin.com/in/tarik-mulisic) · mulisictarik@gmail.com
